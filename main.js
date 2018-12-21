@@ -7,7 +7,7 @@ var TEXT_TRY_AGAIN = '重新续 -1s';
 var TEXT_PLAY_BGM = '按"0"请州长夫人演唱';
 var TEXT_TIME_ELAPSED = '- %s s';
 var TEXT_TOTAL_TIME_ELAPSED = '累计被续 %s 秒';
-var TEXT_TINY_TIPS = '[微小的提示]\n为了获得坠吼的游戏体验，请：\n打开音量\n穿上红色的衣服';
+var TEXT_TINY_TIPS = '[微小的提示]\n为了获得坠吼的游戏体验，请：\n打开音量\n穿上红色的衣服\n 吼不吼啊? made by ZQ';
 var TEXT_FONT = '"Segoe UI", "Microsoft YaHei", 宋体, sans-serif'; // 插入!宋体
 
 var _gravity = 40,
